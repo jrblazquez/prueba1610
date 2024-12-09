@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: prueba1610
+owner: cypress1
+package: .
